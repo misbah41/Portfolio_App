@@ -74,3 +74,28 @@ body{
 .top-title{
   margin-top: 70px;
 }
+.expre-area{
+  background: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  height: 500px;
+  margin-top: 200px;
+}
+.Experience-box{
+  width:40%;
+  float: left;
+  border-left: 5px solid rgb(0, 119, 255);
+  padding: 40px;
+  margin-left: 50px;
+  box-shadow: -9px 13px 32px 0px rgba(0, 0, 0, 0.616);
+  -webkit-box-shadow: -9px 13px 32px 0px rgba(0, 0, 0, 0.616);
+  -moz-box-shadow: -9px 13px 32px 0px rgba(0, 0, 0, 0.616);
+  border-radius: 8px;
+}
+.fast-box{
+  margin-left: -50px;
+  border-left: 5px solid salmon;
+
+}
+.last-box{
+  margin-left: 100px;
+}
